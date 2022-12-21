@@ -2,7 +2,7 @@
 ![Logo](https://i.imgur.com/1OOsglr.png)
 
 
-# ProTime
+# [ProTime](https://pypi.org/project/protime/)
 #### Shortens Writing Waiting Time Using Symbols (1s, 1m, 1h, 1d, 1w)
 
 ### **Key Features :-**
@@ -59,3 +59,4 @@ print('Message After 5 Seconds')
 
 ### **Links :-**
 - [**Python Installation**](https://python.org/downloads)
+- [PyPi](https://pypi.org/project/protime/)
